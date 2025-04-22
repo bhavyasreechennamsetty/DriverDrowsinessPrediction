@@ -1,6 +1,6 @@
 This project uses a machine learning approach to predict driver drowsiness based on eye state classification. It is not a real-time system but focuses on accurate offline prediction.
 
-Dataset: Yawn and Eye Dataset (Kaggle)
+Dataset: Yawn and Eye Dataset (Kaggle) "https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new"
 
 Tech Stack: Python, OpenCV, TensorFlow/Keras
 
